@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/ugurr_demirel" target="blank"><img src="https://img.shields.io/twitter/follow/ugurr_demirel?logo=twitter&style=for-the-badge" alt="ugurr_demirel" /></a> </p>
 
-- 🔭 I’m currently working on [Naryex](https://pro.naryex.com/)
-
 - 📝 I regularly write articles on [https://ugurdemirel.com.tr](https://ugurdemirel.com.tr)
 
 - 💬 Ask me about **React, React Native, Linux, Nodejs**
