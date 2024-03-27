@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/ugurr_demirel" target="blank"><img src="https://img.shields.io/twitter/follow/ugurr_demirel?logo=twitter&style=for-the-badge" alt="ugurr_demirel" /></a> </p>
 
-- 📝 I regularly write articles on [https://ugurdemirel.com.tr](https://ugurdemirel.com.tr)
+- 📝 I regularly write articles on [https://ugurdemirel.com](https://ugurdemirel.com)
 
 - 💬 Ask me about **React, React Native, Linux, Nodejs**
 
-- 📫 How to reach me **iletisim@ugurdemirel.com.tr**
+- 📫 How to reach me **contact@ugurdemirel.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
